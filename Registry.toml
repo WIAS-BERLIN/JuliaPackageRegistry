@@ -1,0 +1,6 @@
+name = "WIASJuliaRegistry"
+uuid = "b316a774-8fc0-47ae-81a4-53ac7603f492"
+repo = "git@github.com:WIAS-BERLIN/WIASJuliaRegistry"
+description = "Registry for WIAS Julia packages"
+
+[packages]
