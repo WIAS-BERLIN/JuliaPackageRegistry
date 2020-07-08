@@ -1,3 +1,4 @@
 name = "WIASRegistryTest"
 uuid = "c2baa7de-46fc-46aa-8bc7-b446de048749"
-repo = "https://github.com/j-fu/WIASRegistryTest.jl"
+repo = "https://repos.wias-berlin.de/users/fuhrmann/projects/julia-packages/WIASRegistryTest.jl"
+#repo = "https://github.com/j-fu/WIASRegistryTest.jl"
