@@ -4,4 +4,5 @@ repo = "git@github.com:WIAS-BERLIN/WIASJuliaRegistry"
 description = "Registry for WIAS Julia packages"
 
 [packages]
+aa8da4a0-b399-4422-9f76-f1286d15ad88 = { name = "CxxPDELib", path = "C/CxxPDELib" }
 c2baa7de-46fc-46aa-8bc7-b446de048749 = { name = "WIASRegistryTest", path = "W/WIASRegistryTest" }
